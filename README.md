@@ -20,29 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Api Flask
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book ensinando a criar um api com flask
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Google Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei o prompt inicial e fui aprimorando conforme o retorno do Gemini
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Ebook gerado com as telas de código de exemplo.
 
 ## Links Interessantes
 
